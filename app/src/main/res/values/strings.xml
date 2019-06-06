@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">XSS</string>
+    <string name="RecordOne">记一笔</string>
 </resources>
